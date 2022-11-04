@@ -1,6 +1,7 @@
 streamlit
 rdkit-pypi
 validclust
+scikit-learn
 scipy
 plotly
 protobuf~=3.19.0
