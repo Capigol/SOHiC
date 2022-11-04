@@ -1,5 +1,5 @@
-streamlit >= 1.9.2
-rdkit==2020.09.1.0
+streamlit
+rdkit-pypi
 validclust
 scipy
 plotly
