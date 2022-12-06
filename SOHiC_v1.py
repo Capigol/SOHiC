@@ -130,7 +130,7 @@ def silhouette_plot(df, maximo, limit_dense):
                       tickfont=dict(family='Calibri', size=18, color='black'), ticks = 'outside', tickson = 'labels',
                       title_font = dict(size=20, family='Calibri', color='black'))
     
-    fig.update_yaxes(title_text='Number of Molecules', showgrid=False,secondary_y=False,
+    fig.update_yaxes(title_text='Number of Outliers/Clusters', showgrid=False,secondary_y=False,
                       showline=True, linecolor='black', gridcolor='lightgrey', 
                       tickfont=dict(family='Calibri', size=18, color='black'),
                       title_font = dict(size=20, family='Calibri', color='black'))
