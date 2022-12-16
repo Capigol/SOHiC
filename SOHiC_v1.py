@@ -408,7 +408,20 @@ else:
                 st.markdown(":point_down: **Here you can download your settings**", unsafe_allow_html=True)
                 st.markdown(filedownload2(settings_df), unsafe_allow_html=True)
 
+                
+st.write("""
+### Cite us:
+*LIDeB Tools: A Latin American resource of freely available, open-source cheminformatics apps*
 
+Denis N. Prada Gori, Lucas N. Alberca, Santiago Rodriguez, Juan I.Alice, Manuel A.Llanos, Carolina L. Bellera, Alan Talevi.
+
+Artificial Intelligence in the Life Sciences
+
+[DOI: 10.1016/j.ailsci.2022.100049](https://www.sciencedirect.com/science/article/pii/S2667318522000198)
+    
+""")
+                
+                
 #Footer edit
 footer="""<style>
 a:link , a:visited{
