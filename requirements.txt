@@ -1,5 +1,5 @@
 streamlit
-rdkit-py
+rdkit-pypi
 numpy==1.26.4
 validclust
 scikit-learn
