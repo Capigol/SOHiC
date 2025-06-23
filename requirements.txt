@@ -1,8 +1,9 @@
 streamlit
 rdkit-pypi
 numpy==1.26.4
+pandas == 1.5.3
 validclust
 scikit-learn
 scipy
 plotly
-protobuf~=3.19.0
+protobuf~=3.20.0
